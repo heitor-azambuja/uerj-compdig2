@@ -1,2 +1,2 @@
 # uerj-compdig2
-Resoluções das listas de C.
+Resoluções das listas de Computadores Digitais II.
